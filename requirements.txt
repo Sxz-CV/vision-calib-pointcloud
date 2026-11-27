@@ -1,0 +1,10 @@
+# 核心（三个模块都用）
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+
+# 点云模块
+open3d>=0.17
+
+# 网页界面（synthetic_calib/space 才需要，可单独安装）
+# gradio>=5.0

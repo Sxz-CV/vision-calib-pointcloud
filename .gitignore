@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 运行时输出（可重新生成）
+*/output/*/
+!*/output/.gitkeep
+pointcloud/previews/
+calibration/results/verify_*/
+calibration/data/a4test/o3/
+calibration/data/a4test/out2/
+
+# 系统
+Thumbs.db
+.DS_Store
